@@ -1,0 +1,2 @@
+A small project based on HTML, CSS3 and Javascript.
+A Landing page for a bakery shop from scratch
